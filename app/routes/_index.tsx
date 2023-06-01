@@ -1,3 +1,5 @@
+import { motion } from "framer-motion";
+
 import {containerVariants, imageLoadAnimationProps, textVariants} from "~/data/animationConfig";
 
 export default  function Index() {
